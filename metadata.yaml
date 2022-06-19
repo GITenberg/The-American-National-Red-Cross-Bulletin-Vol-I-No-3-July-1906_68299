@@ -1,0 +1,30 @@
+_repo: The-American-National-Red-Cross-Bulletin-Vol-I-No-3-July-1906_68299
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American National Red Cross
+    aliases:
+    - Cross, American National Red
+    - Cross, The American National Red
+    gutenberg_agent_id: '35748'
+    url: http://www.gutenberg.org/2009/agents/35748
+    wikipedia: https://en.wikipedia.org/wiki/American_Red_Cross
+description: ''
+gutenberg_issued: '2022-06-12'
+identifiers:
+  gutenberg: '68299'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435064001688&view=1up&seq=49
+pgterms:marc905: 20200516060929theamerica
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :The American National Red Cross,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The American National Red Cross Bulletin (Vol. I, No. 3, July 1906)
+url: http://www.gutenberg.org/ebooks/68299
