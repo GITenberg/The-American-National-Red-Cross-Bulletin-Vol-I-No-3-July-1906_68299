@@ -1,5 +1,8 @@
 _repo: The-American-National-Red-Cross-Bulletin-Vol-I-No-3-July-1906_68299
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68299-h/images/cover.jpg
 creator:
   author:
     agent_name: American National Red Cross
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35748
     wikipedia: https://en.wikipedia.org/wiki/American_Red_Cross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68299#The-American-National-Red-Cross-Bulletin-Vol-I-No-3-July-1906
 gutenberg_issued: '2022-06-12'
 identifiers:
   gutenberg: '68299'
